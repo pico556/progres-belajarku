@@ -1,10 +1,10 @@
 # progres-belajarku
 Proses Belajar GitHub
 
-15 September 2024
-Belajar Kelas Pemograman JavaScript
-*Belajar Tentang Apa Itu JavaScript 
-*Belajar Tentang Tools Yang digunakan dalam JavaScript
+15 September 2024  
+Belajar Kelas Pemograman JavaScript  
+*Belajar Tentang Apa Itu JavaScript   
+*Belajar Tentang Tools Yang digunakan dalam JavaScript  
 
 16 September 2024
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
